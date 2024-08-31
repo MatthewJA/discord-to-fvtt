@@ -20,8 +20,8 @@
     "scripts/index.js"
   ],
   "license": "https://github.com/eryon/discord-to-fvtt/blob/main/LICENSE",
-  "manifest": "https://github.com/eryon/discord-to-fvtt/releases/latest/download/module.json",
+  "manifest": "https://github.com/MatthewJA/discord-to-fvtt/releases/latest/download/module.json",
   "readme": "https://github.com/eryon/discord-to-fvtt/blob/main/README.md",
   "styles": ["styles/d2fvtt.css"],
-  "url": "https://github.com/eryon/discord-to-fvtt"
+  "url": "https://github.com/MatthewJA/discord-to-fvtt"
 }
