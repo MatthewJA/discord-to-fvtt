@@ -22,16 +22,6 @@
   "license": "https://github.com/eryon/discord-to-fvtt/blob/main/LICENSE",
   "manifest": "https://github.com/eryon/discord-to-fvtt/releases/latest/download/module.json",
   "readme": "https://github.com/eryon/discord-to-fvtt/blob/main/README.md",
-  "relationships": {
-    "systems": {
-      "id": "pf2e",
-      "type": "system",
-      "compatibility": {
-        "minimum": "6.0.0",
-        "verified": "6.2.1"
-      }
-    }
-  },
   "styles": ["styles/d2fvtt.css"],
   "url": "https://github.com/eryon/discord-to-fvtt"
 }
